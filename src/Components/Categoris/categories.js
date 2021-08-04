@@ -1,18 +1,13 @@
 import React from "react";
+import Button from "../Button/Button";
+import Data from "../Data/Data";
 
 
 const CategoriesPage =() =>(
     <div className='categoriesPage'>
-        <h3>Menu Categories</h3>
-
-        <li>Soups and Salad-(SS)</li>
-        <li>Vegetables-(VG)</li>
-        <li>Ceviche-(C)</li>
-        <li>Meat and Poultry-(MP)</li>
-        <li>Seafood-(SF)</li>
-        <li>Paella-(P)</li>
-        <li>Side Orders-(SO)</li>
-        <li>Desserts-(DS)</li>
+            <h1>1. Welcome to Chef Chu's Restaurant</h1>
+            <Button/>
+            <Data/>
     </div>
 )
 

@@ -2,7 +2,6 @@ import React from "react";
 
 const Info =()=>(
         <div>
-            <h1>1.Welcome to Chef Chu's Restaurant</h1>
             <h1>LOCATION & HOURS</h1>
             <p>1067 N San Antonio Rd Los Altos, CA 94022</p>
             <p>Phone: (650) 948-2696</p>

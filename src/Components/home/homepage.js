@@ -4,7 +4,7 @@ import Button from "../Button/Button";
 
 const HomePage = ()=>(
     <div className='homepage'>
-            <p>1. Welcome to Chef Chu's Restaurant</p>
+            <h1>1. Welcome to Chef Chu's Restaurant</h1>
             <Button/>
             <Info/>
 
